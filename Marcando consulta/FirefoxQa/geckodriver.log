@@ -1,0 +1,397 @@
+1657814831336	geckodriver	INFO	Listening on 127.0.0.1:62608
+1657814834473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileyvvVHr"
+1657814837106	Marionette	INFO	Marionette enabled
+1657814837127	Marionette	INFO	Listening on port 62636
+Read port: 62636
+Read port: 62636
+1657814839400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileyvvVHr\\search.json.mozlz4", (void 0)))
+1657817106341	Marionette	INFO	Stopped listening on port 62636
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1657814855719	Marionette	INFO	Listening on port 62723
+Read port: 62723
+1657814856222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilez6qgv8\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 6888, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657814929026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657814959785	Marionette	INFO	Stopped listening on port 62723
+1657815010653	geckodriver	INFO	Listening on 127.0.0.1:62904
+1657815013734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilevST9D4"
+1657815014913	Marionette	INFO	Marionette enabled
+1657815014922	Marionette	INFO	Listening on port 62919
+Read port: 62919
+1657815015465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2178: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilevST9D4\\search.json.mozlz4", (void 0)))
+1657817105398	Marionette	INFO	Stopped listening on port 62919
+7815031865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileGSFb5w"
+1657815032918	Marionette	INFO	Marionette enabled
+1657815032929	Marionette	INFO	Listening on port 62979
+Read port: 62979
+1657815033478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileGSFb5w\\search.json.mozlz4", (void 0)))
+1657817104320	Marionette	INFO	Stopped listening on port 62979
+[Parent 18764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileUD07J8\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815121361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815152056	Marionette	INFO	Stopped listening on port 63065
+1657815212872	geckodriver	INFO	Listening on 127.0.0.1:63258
+1657815215973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileP9t8EI"
+1657815217144	Marionette	INFO	Marionette enabled
+1657815217156	Marionette	INFO	Listening on port 63272
+Read port: 63272
+1657815217694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileP9t8EI\\search.json.mozlz4", (void 0)))
+1657817102771	Marionette	INFO	Stopped listening on port 63272
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1657815235039	Marionette	INFO	Listening on port 63363
+Read port: 63363
+1657815235735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilepRxCY1\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815318983	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815349195	Marionette	INFO	Stopped listening on port 63363
+[Parent 21700, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657815578163	geckodriver	INFO	Listening on 127.0.0.1:63704
+1657815581253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileURrM8M"
+1657815582411	Marionette	INFO	Marionette enabled
+1657815582441	Marionette	INFO	Listening on port 63718
+Read port: 63718
+1657815583607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2178: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileURrM8M\\search.json.mozlz4", (void 0)))
+1657817100509	Marionette	INFO	Stopped listening on port 63718
+[Parent 22648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+mote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilenBm5hg"
+1657815601743	Marionette	INFO	Marionette enabled
+1657815601752	Marionette	INFO	Listening on port 63779
+Read port: 63779
+1657815602280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilenBm5hg\\search.json.mozlz4", (void 0)))
+1657815615949	geckodriver	INFO	Listening on 127.0.0.1:63854
+1657815619104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileRxz3E3"
+1657815621375	Marionette	INFO	Marionette enabled
+1657815621405	Marionette	INFO	Listening on port 63882
+Read port: 63882
+1657815622349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileRxz3E3\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815705883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657815736682	Marionette	INFO	Stopped listening on port 63882
+1657816028473	geckodriver	INFO	Listening on 127.0.0.1:64234
+1657816031591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile4TAVGS"
+1657816033405	Marionette	INFO	Marionette enabled
+1657816033419	Marionette	INFO	Listening on port 64248
+Read port: 64248
+1657816034332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile4TAVGS\\search.json.mozlz4", (void 0)))
+1657816049157	geckodriver	INFO	Listening on 127.0.0.1:64322
+1657816052217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileMcniI5"
+1657816053502	Marionette	INFO	Marionette enabled
+1657816053515	Marionette	INFO	Listening on port 64337
+Read port: 64337
+1657816054072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileMcniI5\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657816163461	Marionette	INFO	Stopped listening on port 64337
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1657816317129	geckodriver	INFO	Listening on 127.0.0.1:64608
+1657816320248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilex5gQVg"
+1657816321472	Marionette	INFO	Marionette enabled
+1657816321487	Marionette	INFO	Listening on port 64622
+Read port: 64622
+1657816322044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilex5gQVg\\search.json.mozlz4", (void 0)))
+1657816333733	geckodriver	INFO	Listening on 127.0.0.1:64694
+1657816336802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileoHxCK1"
+1657816337963	Marionette	INFO	Marionette enabled
+1657816337990	Marionette	INFO	Listening on port 64710
+Read port: 64710
+1657816338592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileoHxCK1\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657816473550	Marionette	INFO	Stopped listening on port 64710
+1657816608578	geckodriver	INFO	Listening on 127.0.0.1:64983
+1657816611672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileIsYv9R"
+1657816612847	Marionette	INFO	Marionette enabled
+1657816612859	Marionette	INFO	Listening on port 64997
+Read port: 64997
+1657816613399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileIsYv9R\\search.json.mozlz4", (void 0)))
+1657816740271	Marionette	INFO	Stopped listening on port 64997
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1657816629729	Marionette	INFO	Listening on port 65089
+Read port: 65089
+1657816630337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileSLSDVS\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/Util.js?v=1, line 15: ReferenceError: jivo_api is not defined
+1657816737020	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657816737236	Marionette	INFO	Stopped listening on port 65089
+1659467151234	geckodriver	INFO	Listening on 127.0.0.1:62015
+1659467154428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileI8iVl6"
+1659467317724	geckodriver	INFO	Listening on 127.0.0.1:62068
+1659467320922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile01RmAO"
+1659467325046	Marionette	INFO	Marionette enabled
+1659467325103	Marionette	INFO	Listening on port 62080
+Read port: 62080
+Read port: 62080
+1659467327132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile01RmAO\\search.json.mozlz4", (void 0)))
+1659467810484	Marionette	INFO	Stopped listening on port 62080
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1659467366465	Marionette	INFO	Listening on port 62142
+Read port: 62142
+Read port: 62142
+1659467368509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile10uvDY\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/freemium.js, line 29: ReferenceError: mutationInit is not defined
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/history.js, line 49: ReferenceError: QueryString is not defined
+1659467419096	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659467419239	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/freemium.js, line 29: ReferenceError: mutationInit is not defined
+1659467438836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1659467477263	Marionette	INFO	Stopped listening on port 62142
+1659467527459	geckodriver	INFO	Listening on 127.0.0.1:62219
+1659467530683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilecRB32j"
+1659467534560	Marionette	INFO	Marionette enabled
+1659467534618	Marionette	INFO	Listening on port 62231
+Read port: 62231
+Read port: 62231
+1659467536365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilecRB32j\\search.json.mozlz4", (void 0)))
+1659467806378	Marionette	INFO	Stopped listening on port 62231
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 28908, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+[Parent 28908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+otFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilexIPZpb\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659467624076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+1659467759753	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659467762878	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659467776398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659467784835	Marionette	INFO	Stopped listening on port 62290
+1659531319108	geckodriver	INFO	Listening on 127.0.0.1:50187
+1659531322206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileAuClGx"
+1659531326074	Marionette	INFO	Marionette enabled
+1659531326112	Marionette	INFO	Listening on port 50199
+Read port: 50199
+Read port: 50199
+1659531328408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileAuClGx\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659532570249	Marionette	INFO	Stopped listening on port 50199
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1659531355041	Marionette	INFO	Listening on port 50260
+Read port: 50260
+1659531355584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilexMaCcL\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/freemium.js, line 29: ReferenceError: mutationInit is not defined
+JavaScript error: https://qa.clude.com.br/cluder/assets/custom_js/history.js, line 49: ReferenceError: QueryString is not defined
+1659531378668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1659531458720	Marionette	INFO	Stopped listening on port 50260
+1659532296345	geckodriver	INFO	Listening on 127.0.0.1:51418
+1659532299379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilegXOYje"
+1659532302355	Marionette	INFO	Marionette enabled
+1659532302409	Marionette	INFO	Listening on port 51431
+Read port: 51431
+Read port: 51431
+1659532304467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilegXOYje\\search.json.mozlz4", (void 0)))
+1659532315537	Marionette	INFO	Stopped listening on port 51431
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2273: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1659532328625	geckodriver	INFO	Listening on 127.0.0.1:51448
+1659532331752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileItoXn1"
+1659532333054	Marionette	INFO	Marionette enabled
+1659532333062	Marionette	INFO	Listening on port 51460
+Read port: 51460
+1659532333666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileItoXn1\\search.json.mozlz4", (void 0)))
+1659532532894	Marionette	INFO	Stopped listening on port 51460
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1659532351680	Marionette	INFO	Listening on port 51517
+Read port: 51517
+1659532352169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileG10IMU\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1659532456148	Marionette	INFO	Stopped listening on port 51517
+1659533102517	geckodriver	INFO	Listening on 127.0.0.1:52301
+1659533105691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileSy2dch"
+1659533107746	Marionette	INFO	Marionette enabled
+1659533107770	Marionette	INFO	Listening on port 52313
+Read port: 52313
+Read port: 52313
+1659533109340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileSy2dch\\search.json.mozlz4", (void 0)))
+1659533190077	Marionette	INFO	Stopped listening on port 52313
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1659533123431	Marionette	INFO	Listening on port 52369
+Read port: 52369
+1659533123905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileofRPBO\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1659533177475	Marionette	INFO	Stopped listening on port 52369
+1659534821626	geckodriver	INFO	Listening on 127.0.0.1:54153
+1659534824731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileOLdP7g"
+1659534827546	Marionette	INFO	Marionette enabled
+1659534827573	Marionette	INFO	Listening on port 54168
+Read port: 54168
+Read port: 54168
+1659534829613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofileOLdP7g\\search.json.mozlz4", (void 0)))
+1659534835887	Marionette	INFO	Stopped listening on port 54168
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2273: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1659550290693	geckodriver	INFO	Listening on 127.0.0.1:49882
+1659550293773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilepujB1I"
+1659550295906	Marionette	INFO	Marionette enabled
+1659550295933	Marionette	INFO	Listening on port 49894
+Read port: 49894
+Read port: 49894
+1659550298120	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofilepujB1I\\search.json.mozlz4", (void 0)))
+1659553369651	Marionette	INFO	Stopped listening on port 49894
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+tte enabled
+1659550313805	Marionette	INFO	Listening on port 49951
+Read port: 49951
+1659550314291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofile9OYqJr\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1659550434107	Marionette	INFO	Stopped listening on port 49951
+Invalid port. Exiting...
+Invalid port. Exiting...
+1660927667566	geckodriver	INFO	Listening on 127.0.0.1:65060
+1660927670623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofiledWfpbE"
+1660927672319	Marionette	INFO	Marionette enabled
+1660927672331	Marionette	INFO	Listening on port 65070
+WebDriver BiDi listening on ws://localhost:65061
+Read port: 65070
+1660927672972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\JULIAN~1.BUE\\AppData\\Local\\Temp\\rust_mozprofiledWfpbE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65061/devtools/browser/aa328224-372f-4672-b3f4-cf608a70ed87
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://qa.clude.com.br"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: uncaught exception: Object
+1660927815835	Marionette	INFO	Stopped listening on port 65070
